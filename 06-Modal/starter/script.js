@@ -7,6 +7,7 @@ const btnOpenModal = document.querySelectorAll('.show-modal');
 console.log(btnOpenModal);
 
 console.log('testing!');
+console.log('adding for testing2');
 
 const openModal = function () {
   modal.classList.remove('hidden');
